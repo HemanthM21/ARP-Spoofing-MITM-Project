@@ -4,7 +4,7 @@
 ---
 
 ## 📹 Project Demo Video
-🎥 **[Watch the full attack walkthrough here →](YOUR_LOOM_OR_YOUTUBE_LINK)**
+🎥 https://www.loom.com/share/f512145461df41cfadc5b47036e1eea0
 
 > This video covers the complete attack from setup to execution — including live Wireshark packet capture, ARP spoofing, HTTP interception, FTP credential sniffing, DNS query capture, and TCP stream analysis.
 
@@ -191,8 +191,8 @@ This project was performed in a **controlled home lab environment** using intent
 
 **[Your Name]**
 Cybersecurity Enthusiast | Networking | Ethical Hacking
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: https://www.linkedin.com/in/mada-hemanth-0774892ab/
+- GitHub: https://github.com/HemanthM21
 
 ---
 
